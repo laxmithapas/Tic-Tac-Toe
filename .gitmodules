@@ -1,3 +1,1 @@
-[submodule "tic-tac-toe"]
-	path = tic-tac-toe
-	url = <SUBMODULE_URL>
+# (Delete this file if you don't need the submodule)
