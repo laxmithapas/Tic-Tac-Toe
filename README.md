@@ -48,7 +48,7 @@ tic-tac-toe/
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/laxmithapas/Tic-Tac-Toe-Game.git
+git clone https://github.com/laxmithapas/Tic-Tac-Toe-.git
 ```
 
 2️⃣ Move into the project directory:
@@ -83,8 +83,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📬 Connect with Me  
 
-- 📧 Email: [your email here]
-- 🖥️ Portfolio: [your portfolio link]
+- 📧 Email: shakharthapa2004@gmail.com
+- 🖥️ Portfolio: https://laxmithapas.github.io/port/
 - 🐙 GitHub: [https://github.com/laxmithapas](https://github.com/laxmithapas)
 
 ---
