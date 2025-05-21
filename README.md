@@ -2,13 +2,7 @@
 # 🎮 Tic Tac Toe Game  
 
 A clean, dynamic, and beginner-friendly **Tic Tac Toe game built with React**.  
-Custom player names, responsive design, emojis on win screens — everything wrapped in a modern, user-friendly interface.
-
----
-
-## 📸 Demo  
-
-> 📌 [Live Demo Link Coming Soon 🚀]  
+Custom player names, responsive design, emojis on win screens — everything wrapped in a modern, user-friendly interface. 
 
 ---
 
