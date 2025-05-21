@@ -96,8 +96,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 📌 Screenshots  
+![image](https://github.com/user-attachments/assets/46683027-0c93-4f6d-b98b-28d52b5d0115)
 
-> Add screenshots here for ![alt text](image.png)a polished, pro touch!  
+>  
 
 ---
 
